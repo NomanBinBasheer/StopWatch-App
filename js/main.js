@@ -11,7 +11,7 @@ let secSmall = 0;
 let timer = false;
 
 function startTime() {
-  alert('IM ALIVEEEEE');
+  // alert('IM ALIVEEEEE');
   timer = true;
   playStopWatch();
 }

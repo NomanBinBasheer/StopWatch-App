@@ -22,7 +22,7 @@
 /*******************************************/
 
 body {
- background-color: grey;
+ background-color: rgb(148, 148, 148);
    display: flex;
    justify-content: center;
    align-items: center;
